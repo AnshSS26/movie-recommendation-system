@@ -151,5 +151,5 @@ box-shadow:0px 2px 8px rgba(0,0,0,0.15);
 st.markdown("---")
 
 st.caption(
-    "Developed by Rav | Movie Recommendation System using TF-IDF, Cosine Similarity and Streamlit"
+    "Developed by ANSH | Movie Recommendation System using TF-IDF, Cosine Similarity and Streamlit"
 )
